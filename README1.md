@@ -1,5 +1,6 @@
 # git clone the repo.
 git clone https://github.com/ultralytics/yolov5.git
+
 cd yolov5
 
 # create environment using python 3.8 or 3.9 then activate it
